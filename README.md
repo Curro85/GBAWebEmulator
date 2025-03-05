@@ -1,5 +1,4 @@
 # GBAWebEmulator
-## Emulador online de Game Boy
 ## Alejandro Morillo Troya
 
 ## Proyecto:
@@ -10,7 +9,7 @@ La finalidad de este proyecto es crear una aplicación web donde las personas pu
 La idea es permitir que los usuarios tengan su propia cuenta, con sus juegos, sus datos guardados de los mismos en una aplicación web evitando así que al formatear un ordenador propio, o un dispositivo en el que jueguen pierdan sus avances, sólo necesitan la ROM del juego, que eso no puedo almacenarlo por copyright.
 
 ## Hardware y software:
-Utilizaré el framework de Django para gestionar el back-end de la aplicación web, aunque si veo que necesito sólo algunas funcionalidades y no todas las del framework Django posiblemente use Flask, con la idea de hacer la aplicación lo más liviana posible y así asegurar una emulación más estable.
+Utilizaré el framework de Django y Python para gestionar el back-end de la aplicación web, aunque si veo que necesito sólo algunas funcionalidades y no todas las del framework Django posiblemente use Flask, con la idea de hacer la aplicación lo más liviana posible y así asegurar una emulación más estable.
  
 Como front-end y para la interfaz utilizaré en principio JavaScript, aunque me gustaría usar React.
 
